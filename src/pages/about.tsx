@@ -28,14 +28,14 @@ export default function About() {
       role: 'VueJS Developer',
       company: 'Codev (Remote)',
       link: 'https://www.codev.com/',
-      period: 'May 2021 - November2022',
+      period: 'May 2021 - October 2022',
       description: 'Updating and maintain a SaaS using Vue.js, Rivets.js, Backbone.js, firebase, etc. - <a href="https://meetingpulse.net/" class="text-blue-500">https://meetingpulse.net/</a>'
     },
     {
       role: 'Software Engineer',
       company: 'Sprobe Inc.',
       link: 'https://sprobe.com/',
-      period: '2020 - Present',
+      period: 'December 2018 - April 2021',
       description: 'Experience building software applications from frontend to backend, and also had the opportunity to lead and manage a development team.'
     },
     {
