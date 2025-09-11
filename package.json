@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio website built with Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "portfolio",
+    "web",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.4.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.3.0",
+    "typescript": "latest"
+  }
+}
