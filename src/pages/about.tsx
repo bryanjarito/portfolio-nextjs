@@ -19,9 +19,16 @@ export default function About() {
   const experiences = [
     {
       role: 'Frontend Developer',
+      company: 'Clark Outsourcing (Remote)',
+      link: 'https://clarkoutsourcing.com/',
+      period: 'October 2025 - Present',
+      description: 'Maintaining and enhancing a e-commerce platform using Vue.js, Nuxt.js, Node.js - <a href="https://spectorandco.com/" class="text-blue-500">https://spectorandco.com/</a>'
+    },
+    {
+      role: 'Frontend Developer',
       company: 'Eastvantage (Remote)',
       link: 'https://eastvantage.com/',
-      period: 'November 2022 - July 2025',
+      period: 'November 2022 - September 2025',
       description: 'Modernizing legacy SaaS codebase by migrating to Vue.js and implementing new features using Vue.js - <a href="https://www.optimy.com/" class="text-blue-500">https://www.optimy.com/</a>'
     },
     {
